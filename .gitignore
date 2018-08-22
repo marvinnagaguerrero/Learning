@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UnitTesting101/ConsoleApp1/obj/Debug
+/UnitTesting101/ConsoleApp1/bin/Debug
+/UnitTesting101/packages
+/UnitTesting101/UTCourse101Tests/bin/Debug
+/UnitTesting101/UTCourse101Tests/obj/Debug
+/UnitTesting101/UTCourse101/bin/Debug
+/UnitTesting101/UTCourse101/obj/Debug
+/UnitTesting101/.vs/UnitTesting101/v15
